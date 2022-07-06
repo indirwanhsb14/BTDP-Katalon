@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Question</name>
+   <tag></tag>
+   <elementGuidId>7a9004e4-99e4-4b90-b896-ba9507261d03</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_22 - Penelusuran Google/txt_Question.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_22 - Penelusuran Google/txt_Question.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div/div/div/div/div/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.vUGUtc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aa6c58a5-0735-444a-b036-ee9b836cbcd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>ubtiRe</value>
+      <webElementGuid>e2782612-1f0e-4182-8e8b-015e9e01bb4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vUGUtc</value>
+      <webElementGuid>46a6d015-4f4c-4d2f-8449-635bce2c4846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  2 + 2 =  </value>
+      <webElementGuid>699bc1b8-bacb-4906-a966-91540ed84dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;ULSxyf&quot;]/div[@class=&quot;KIy09e obcontainer wDYxhc NFQFxe&quot;]/div[1]/div[@class=&quot;card-section&quot;]/div[1]/div[@class=&quot;tyYmIf&quot;]/div[@class=&quot;BRpYC&quot;]/div[@class=&quot;TIGsTb&quot;]/div[@class=&quot;xwgN1d XSNERd&quot;]/div[@class=&quot;XH1CIc&quot;]/span[@class=&quot;vUGUtc&quot;]</value>
+      <webElementGuid>c449698d-8605-47b5-8747-eb5b65b25b23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>5ff56bff-19d4-49a1-8ced-1644b4c6ab5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitungan dan hasil Anda ditampilkan di sini sehingga Anda dapat menggunakannya kembali'])[1]/following::span[2]</value>
+      <webElementGuid>dbaacc82-2536-44cd-98bd-14a2877958cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Kalkulator'])[1]/following::span[3]</value>
+      <webElementGuid>af9d9091-e47d-4fd8-8dd9-0f8fa2213b24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rad'])[1]/preceding::span[2]</value>
+      <webElementGuid>67e4c859-0b22-4a8e-8c8d-c320c61c6403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deg'])[1]/preceding::span[2]</value>
+      <webElementGuid>9144d6c8-ca47-41b3-a29a-ce27e6bb45d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 + 2 =']/parent::*</value>
+      <webElementGuid>dd6d34ee-5dda-4974-aab8-045660d8b229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>d706c201-aaed-437f-8990-169f78a80edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  2 + 2 =  ' or . = '  2 + 2 =  ')]</value>
+      <webElementGuid>e7cb06a6-a1c6-4184-9377-fcd97963e8a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
